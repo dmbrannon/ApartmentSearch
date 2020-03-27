@@ -10,10 +10,10 @@ I like to have a myriad of data whenever I make a big decision, such as deciding
 
 ## Example Results
 ### Weekly Average Morning Commute
-<img src="https://github.com/dmbrannon/ApartmentSearch/tree/master/screenshots/weekly_morning_averages.PNG" alt="screenshot of Weekly Average Morning Commute" />
+![screenshot](screenshots/weekly_morning_averages.PNG)
 
 ### Weekly Average Evening Commute
-<img src="https://github.com/dmbrannon/ApartmentSearch/tree/master/screenshots/weekly_evening_averages.PNG" alt="screenshot of Weekly Average Evening Commute" />
+![screenshot](screenshots/weekly_evening_averages.PNG)
 
 ## Resouces
 - <a href="https://developers.google.com/maps/documentation/directions/intro">Google Maps Directions API</a>
